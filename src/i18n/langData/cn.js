@@ -1,0 +1,20 @@
+export default {
+    home: {
+      text1: '秘密文库',
+      text2: '获取中...',
+      text3: '文章详情',
+      text4: '更新于',
+      text5: '上一页',
+      text6: '下一页',
+      text7: '加载中...',
+      text8: '查看pdf',
+      text9: '放大',
+      text10: '縮小',
+      text11: '没有更多了',
+      text12: '已复制到剪贴板',
+      text13: '抱歉，复制失败！',
+      text14: '复制链接',
+      text15: '取消',
+      text16: '下载Secret',
+    },
+}

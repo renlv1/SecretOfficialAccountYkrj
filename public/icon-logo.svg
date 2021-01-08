@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <g id="icon" transform="translate(-100 -113)">
+    <circle id="椭圆_1" data-name="椭圆 1" cx="150" cy="150" r="150" transform="translate(100 113)" fill="#1f75e5"/>
+    <path id="路径_1" data-name="路径 1" d="M38.268,50.4H18.146A9.146,9.146,0,0,0,9,59.549V156.5a9.146,9.146,0,0,0,9.146,9.146H149.854A9.146,9.146,0,0,0,159,156.5V6.5H38.268ZM52.9,21.134h91.463V151.012H23.634V65.037H38.268v69.512H52.9Z" transform="translate(166 176.5)" fill="#fff"/>
+    <path id="路径_2" data-name="路径 2" d="M115.326,19H36.21V69.3h79.116ZM100.692,54.671H50.844V33.634h49.848Z" transform="translate(188.564 186.866)" fill="#fff"/>
+    <rect id="矩形_14" data-name="矩形 14" width="79.116" height="14.634" transform="translate(224.774 266.232)" fill="#fff"/>
+    <rect id="矩形_15" data-name="矩形 15" width="79.116" height="14.634" transform="translate(224.774 289.098)" fill="#fff"/>
+  </g>
+</svg>
